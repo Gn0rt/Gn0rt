@@ -26,8 +26,7 @@ Mình luôn sẵn sàng kết nối, học hỏi và hợp tác trong các dự 
   </i>
 </p>
 <hr>
-<hr>
-<h3 align="left">✨ Dev Reality Check:</h3>
+<h3 align="left">🧨 Important for Dev:</h3>
 <p align="center">
   <i>"It works... don't touch it 🧠💥"</i>
 </p>
