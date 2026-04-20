@@ -61,6 +61,6 @@ Mình luôn sẵn sàng kết nối, học hỏi và hợp tác trong các dự 
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### If my code didn’t break your brain... consider giving it a ⭐ 😭
 
 </div>
