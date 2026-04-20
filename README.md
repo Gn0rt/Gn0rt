@@ -9,7 +9,7 @@
 Xin chào, mình là Trọng 👋
 Mình là một Frontend Developer, hiện đang trong quá trình học hỏi và mở rộng sang Backend để trở thành một Web Developer toàn diện.
 
-Mình sinh năm 2003, là sinh viên mới ra trường nên kinh nghiệm thực tế chưa nhiều, nhưng mình luôn chủ động học hỏi và không ngừng cải thiện bản thân mỗi ngày. Mình có nền tảng về HTML, CSS, JavaScript và đang tìm hiểu và học thêm về framework như React, Vue, đồng thời đang tìm hiểu thêm về Backend với ASP.NET Core hiện tại và NodeJS trong tương lai :D và làm việc với database như MongoDB.
+Mình sinh năm 2003, là sinh viên mới ra trường nên kinh nghiệm thực tế chưa nhiều, nhưng mình luôn chủ động học hỏi và không ngừng cải thiện bản thân mỗi ngày. Mình có nền tảng về HTML, CSS, JavaScript và đang tìm hiểu và học thêm về framework như React, Vue, đồng thời đang tìm hiểu thêm về Backend với ASP.NET Core hiện tại và NodeJS trong tương lai 😁 và làm việc với database như MongoDB.
 
 Mình yêu thích việc giải quyết vấn đề, xây dựng sản phẩm từ những thứ nhỏ nhất và từng bước hiểu sâu hơn cách một hệ thống hoạt động từ frontend đến backend. Đối với mình, việc học công nghệ không chỉ là để làm việc mà còn là hành trình khám phá và phát triển tư duy.
 
