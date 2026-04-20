@@ -40,7 +40,7 @@ Mình luôn sẵn sàng kết nối, học hỏi và hợp tác trong các dự 
 - 💻 &nbsp; Coding, tech và cảm giác “debug xong bug khó” 😎
 - 🛠️ &nbsp; Thích vọc vạch, khám phá tools mới và hiểu cách mọi thứ vận hành
 - 📚 &nbsp; Đọc, xem và đào sâu về công nghệ mỗi khi có hứng
-- 🏃 &nbsp; Chạy bộ, đá bóng để reset não sau những giờ code căng thẳng
+- 🏃 &nbsp; Chạy bộ, đá bóng, tập thể dục để reset não sau những giờ code căng thẳng
 - 🎧 &nbsp; Âm nhạc là thứ không thể thiếu khi làm việc và chill
 
 ### Languages and Tools:
