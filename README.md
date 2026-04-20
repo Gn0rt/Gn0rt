@@ -18,11 +18,21 @@ Ngoài thời gian code, mình thường xem các video về công nghệ, đọ
 Mình luôn sẵn sàng kết nối, học hỏi và hợp tác trong các dự án liên quan đến web development 🚀
 
 <hr>
-<h3 align="left">✨ Random Dev Quote::</h3>
+<h3 align="left">✨ Dev Reality Check:</h3>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+  <i>
+    "Code chạy không bug là chuyện hiếm,<br/>
+    bug chạy không cần code là chuyện thường ngày 💀"
+  </i>
 </p>
 <hr>
+<hr>
+<h3 align="left">✨ Dev Reality Check:</h3>
+<p align="center">
+  <i>"It works... don't touch it 🧠💥"</i>
+</p>
+<hr>
+
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
@@ -39,7 +49,7 @@ Mình luôn sẵn sàng kết nối, học hỏi và hợp tác trong các dự 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/mongodb/47A248" alt="mongodb"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"></code>
